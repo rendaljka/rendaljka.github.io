@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on rendaljka&#39;s cave</title>
-    <link>https://rendaljka.github.io/posts/</link>
-    <description>Recent content in Posts on rendaljka&#39;s cave</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Apr 2022 18:48:01 +0200</lastBuildDate><atom:link href="https://rendaljka.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Setup Emulated Android Device (Remote Host)</title>
-      <link>https://rendaljka.github.io/posts/setup-emulated-android-device/</link>
-      <pubDate>Fri, 08 Apr 2022 18:48:01 +0200</pubDate>
-      
-      <guid>https://rendaljka.github.io/posts/setup-emulated-android-device/</guid>
-      <description>What is this about? This article is for anyone trying to setup Android Emulated Device for remote debugging.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on rendaljka's cave</title><link>https://rendaljka.github.io/posts/</link><description>Recent content in Posts on rendaljka's cave</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 08 Apr 2022 18:48:01 +0200</lastBuildDate><atom:link href="https://rendaljka.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Setup Emulated Android Device (Remote Host)</title><link>https://rendaljka.github.io/posts/setup-emulated-android-device/</link><pubDate>Fri, 08 Apr 2022 18:48:01 +0200</pubDate><guid>https://rendaljka.github.io/posts/setup-emulated-android-device/</guid><description>What is this about? This article is for anyone trying to setup Android Emulated Device for remote debugging.
 Example: you have Android Device Manager on your host and a Kali Virutal Machine.
 I had also struggled with it myself and had to glue different pieces available online together.
 If you have any questions or feedback you can reach me on one of my links.
-Prerequisites  Android Studio installed OR Android SDK Manager Install Android Device Manager ADB installed on your client machine (i.</description>
-    </item>
-    
-  </channel>
-</rss>
+Prerequisites Android Studio installed OR Android SDK Manager Install Android Device Manager ADB installed on your client machine (i.</description></item></channel></rss>
